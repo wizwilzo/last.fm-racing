@@ -1,5 +1,5 @@
 # last.fm-racing
-Python programs utilizing the Last.fm API and prefix sums to create .csv files for beautiful artist/album racing bar charts.
+Python programs utilizing the Last.fm (Spotify listening history tracker) API and prefix sums to create .csv files for beautiful artist/album racing bar charts.
 
 ![Bar Chart Race GIF](/data/artist-race-demo.gif)
 
