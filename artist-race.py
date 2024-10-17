@@ -3,8 +3,8 @@ import csv
 from datetime import datetime, timedelta
 import pandas as pd
 
-# important
-API_KEY = '0f3408d9341c62a740e2c7456fc10445'
+# important: https://www.last.fm/api/authentication
+API_KEY = 'REPLACE WITH YOUR API KEY'
 
 def get_top_artists(username, from_date, to_date):
     url = f'http://ws.audioscrobbler.com//2.0/?method=user.getweeklyartistchart&user={username}&api_key={API_KEY}&from={from_date}&to={to_date}&format=json'
