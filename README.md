@@ -1,4 +1,8 @@
 # last.fm-racing
+12/9/25 Update: Now deployed on a UI! <https://lastfm-race-chart.vercel.app/>
+View the new github here: <https://github.com/wizwilzo/lastfm-race-chart>
+______________________________
+
 Python programs utilizing the Last.fm (Spotify listening history tracker) API and prefix sums to create .csv files for beautiful artist/album racing bar charts.
 
 ![Bar Chart Race GIF](/data/artist-race-demo.gif)
